@@ -1,0 +1,3 @@
+negative Words	15007
+
+positive Words	18246
